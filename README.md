@@ -8,7 +8,8 @@
   </a>
 </p>
 
-> Wilayah Indonesia BPS & Kemendagri
+> Kode Relasi Wilayah Indonesia BPS dengan Kemendagri
+
 
 ## Usage
 
@@ -23,6 +24,9 @@ Import (.sql) file to database
 * Twitter: [@mocfaisal](https://twitter.com/mocfaisal)
 * Github: [@mocfaisal](https://github.com/mocfaisal)
 * LinkedIn: [@mocfaisal](https://linkedin.com/in/mocfaisal)
+
+## Referensi
+- Kode dan Data Wilayah Indonesia [Badan Pusat Statistik](https://sig-dev.bps.go.id/webgis/pencariankodenama#historis)
 
 ## Show your support
 
