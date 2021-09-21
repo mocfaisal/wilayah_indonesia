@@ -18,6 +18,7 @@
 ```
 - Relasi antar table : Provinsi, Kabupaten, Kecamatan, Kelurahan/Desa.
 - Struktur table sama : id, kode_bps, nama_bps, kode_dagri, nama_dagri.
+- Khusus untuk table Kabupaten dan Kelurahan ada field tipe untuk pembeda.
 ```
 ***
 ## Data Wilayah
@@ -82,7 +83,8 @@
 
 ***
 ## Known Bugs
-- [x] Fix **Kelurahan Mukti Lincir**, Kecamatan Kota Baharu, Kabupaten Aceh Singkil, Provinsi Aceh. ~ kode dagri belum ada. Fixed ([Kepmendagri No. 146.1-4717 - 2020](http://binapemdes.kemendagri.go.id/produkhukum/detil/keputusan-menteri-dalam-negeri-nomor-1461-4717-tahun-2020))
+- [x] Fix **Kelurahan Mukti Lincir**, Kecamatan Kota Baharu, Kabupaten Aceh Singkil, Provinsi Aceh. ~ Kode Dagri belum ada. Fixed ([Kepmendagri No. 146.1-4717 - 2020](http://binapemdes.kemendagri.go.id/produkhukum/detil/keputusan-menteri-dalam-negeri-nomor-1461-4717-tahun-2020))
+- [x] Fix **Kabupaten Bolaang Mongondow, Kabupaten Ogan Komering Ulu** ~ Nama Dagri duplikat/sama. Fixed ([Kepmendagri No. 146.1-4717 - 2020](http://binapemdes.kemendagri.go.id/produkhukum/detil/keputusan-menteri-dalam-negeri-nomor-1461-4717-tahun-2020))
 
 ***
 ## Show your support
